@@ -4,6 +4,8 @@ This repository contains materials associated with the paper Unplugged AI Activi
 
 ## Repository Contents
 
+
+```
 ├── topics/
 │   ├── search/
 │   ├── mdps/
@@ -11,6 +13,7 @@ This repository contains materials associated with the paper Unplugged AI Activi
 │   ├── hmms/
 ├── LICENSE
 └── README.md
+```
 
 
 ### Included Materials
