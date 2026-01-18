@@ -6,12 +6,30 @@ This repository contains materials associated with the paper Unplugged AI Activi
 
 
 ```
-├── topics/
-│   ├── search/
-│   ├── mdps/
-│   ├── reinforcement_learning/
-│   ├── hmms/
-├── LICENSE
+├── Classification/
+│   ├── Printable Cards/
+│   ├── Student Workbook/
+│   ├── Jupyter Notebook/
+├── Hidden Markov Models/
+│   ├── Two Spies Activity Guide/
+│   ├── Two Spies Student Game Sheets/
+│   ├── Markov Models Jupyter Notebook/
+│   ├── Particle Filter Lab Jupyter Notebook/
+├── Imitation Game/
+│   ├── Activity Guide/
+├── Markov Decision Processes/
+│   ├── Red and Black Jack Activity Guide/
+│   ├── Value Iteration Jupyter Notebook/
+├── Probability/
+│   ├── Sherlock Pgmpy Lab Jupyter Notebook/
+├── Reinforcement Learning/
+│   ├── Q-Maze Activity Guide/
+├── Search/
+│   ├── Becoming Search Activity Guide/
+│   ├── Becoming Search Uninformed Printable/
+│   ├── Becoming Search Informed Printable/
+│   ├── Grid Knockout Activity Guide/
+│   ├── Grid Knockout Jupyter Notebook/
 └── README.md
 ```
 
